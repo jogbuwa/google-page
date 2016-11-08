@@ -1,0 +1,70 @@
+body {
+	width: 100%;
+	height: auto;
+	font-family: arial, sans-serif;
+}
+nav {
+	text-align: right;	
+}
+
+#sign {
+	background-color: #3079ed;
+	color: #fff;
+	padding: 5px 8px;
+	font-weight: bold;
+	border-radius: 3px;
+}
+
+.logo {
+	text-align: center;
+    height: 200px;
+    color: black;
+    margin-top: 50px;
+}
+
+#google {
+	height: 200px;
+	width: 30%;
+	margin-top: 55px;
+}
+
+.form {
+	width: 45%;
+	height: 35px;
+}
+
+.left {
+	text-align: left;
+}
+
+.right {
+	float: right;
+}
+
+#foot {
+	margin-top: 366px;
+	background-color: #f2f2f2;
+	padding: 5px;
+	width: 100%;	
+}
+
+a {
+	text-decoration: none;
+	color: #404040;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+button {
+	padding: 10px;
+	width: 150px;
+	height: 36px;
+	border-style: none;
+	background-color: #f2f2f2;;
+}
+
+.blue {
+	color: #1a0dab;;
+}
